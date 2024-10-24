@@ -78,23 +78,13 @@
             >;
         };
 
-        layer_MOD {
+        layer_L3 {
             bindings = <
  &trans  &trans  &trans               &trans  &trans  &trans            &trans                                                   &mo 3    &trans      &trans      &trans   &trans  &trans  &trans
  &trans  &trans  &trans  &macro_acute_accent  &trans  &trans            &trans                                                  &trans    &trans      &trans      &trans   &trans  &trans  &trans
  &trans  &trans  &trans               &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &kp HOME  &macro_eol  &macro_beg  &kp END  &trans  &trans
  &trans  &trans  &trans               &trans  &trans  &trans                            &trans                  &trans                    &trans      &trans      &trans   &trans  &trans  &trans
  &trans  &trans  &trans               &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                &trans      &trans   &trans  &trans  &trans
-            >;
-        };
-
-        layer_mod {
-            bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
