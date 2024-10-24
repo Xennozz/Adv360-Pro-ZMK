@@ -6,14 +6,13 @@
     "base",
     "L1",
     "L2",
-    "mod",
     "L3",
     "Layer #5",
     "Layer #6",
     "Layer #7",
     "Layer #8",
     "Layer #9",
-    "Layer #10"
+    "mod"
   ],
   "layers": [
     [
@@ -34,12 +33,6 @@
          "&trans",          "&trans",      "&trans",   "&trans",     "&trans",      "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&macro_left_word", "&kp PAGE_DOWN",  "&kp PAGE_UP",    "&macro_right_word",                "&trans",         "&trans",
          "&trans",          "&trans",      "&trans",   "&trans",     "&trans",      "&trans",                               "&trans",                     "&trans",                               "&trans",        "&trans",       "&trans",               "&trans",                "&trans",         "&trans",
          "&trans",          "&trans",      "&trans",   "&trans",     "&trans",                          "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                            "&trans",       "&trans",               "&trans",                "&trans",         "&trans"
-    ], [
-        "&none", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3", "&bt BT_SEL 4",                 "&none",                                                                                     "&trans",  "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
-        "&none",        "&none",        "&none",        "&none",        "&none",        "&none",           "&bootloader",                                                                                "&bootloader",  "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
-        "&none",        "&none",        "&none",        "&none",        "&none",        "&none",                 "&none",  "&none",  "&none",                     "&bt BT_CLR",      "&none", "&rgb_ug RGB_MEFS_CMD 5",  "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
-        "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
-        "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
        "&trans", "&trans", "&trans",              "&trans", "&trans", "&trans",           "&trans",                                                              "&mo 3",   "&trans",     "&trans",     "&trans",  "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&macro_acute_accent", "&trans", "&trans",           "&trans",                                                             "&trans",   "&trans",     "&trans",     "&trans",  "&trans", "&trans", "&trans",
@@ -82,6 +75,12 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+    ], [
+      "&none", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3", "&bt BT_SEL 4",                 "&none",                                                                                     "&trans",  "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
+      "&none",        "&none",        "&none",        "&none",        "&none",        "&none",           "&bootloader",                                                                                "&bootloader",  "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
+      "&none",        "&none",        "&none",        "&none",        "&none",        "&none",                 "&none",  "&none",  "&none",                     "&bt BT_CLR",      "&none", "&rgb_ug RGB_MEFS_CMD 5",  "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
+      "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
+      "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ]
   ]
 }
